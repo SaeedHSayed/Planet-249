@@ -1,8 +1,8 @@
 ### Hi, I'm Saeed 👋
-Aspiring Data Analyst/Scientist building skills in Python, Pandas, and ML.
+Data/BI Analyst building skills in Python, SQL, Visualization Tools, and Statistics.
 
 🔭 Currently: working through IBM professional certification in data science roadmap | 
-🌱 Learning: NumPy, Pandas, statistical analysis | 
+🌱 Learning: Python, SQL, Visualization Tools, Pandas, statistical analysis 
 📌 Featured Projects: Coming Soon ... 
 
 📫 Reach me:
