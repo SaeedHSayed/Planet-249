@@ -1,0 +1,6 @@
+services:
+  officialsaeeddotcom:
+    image: officialsaeeddotcom
+    build:
+      context: .
+      dockerfile: ./Dockerfile
